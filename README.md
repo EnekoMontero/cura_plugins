@@ -2,7 +2,8 @@
 Cura plugins. Make your 3d prints memorable
 
 ##Instrucciones de instalación de plugins
-Colocar el fichero de python en la siguiente ruta:\nC:\Archivos de programa\Cura\plugins
+Colocar el fichero de python en la siguiente ruta:  
+C:\Archivos de programa\Cura\plugins
 
 #Plugins disponibles
 
