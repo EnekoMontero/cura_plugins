@@ -1,16 +1,16 @@
-# cura_plugins
+﻿# cura_plugins
 Cura plugins. Make your 3d prints memorable
 
-##Instrucciones de instalación de plugins
+## Instrucciones de instalación de plugins
 Colocar el fichero de python en la siguiente ruta:  
 C:\Archivos de programa\Cura\plugins
 
-#Plugins disponibles
+# Plugins disponibles
 
-##Change Filament
+## Change Filament
 Basado en el plugin de Cura "Pause at height". Modificado para cambiar el filamento de forma más óptima.
 
-###Funcionamiento
+### Funcionamiento
  1. Se rellenan los parámetros al filetear la pieza con Cura.
  2. Cuando se llegue a esa altura el cabezal se moverá a la posición indicada retrayendo la cantidad de filamento indicada.
  3. Retiramos el filamento.
@@ -19,11 +19,11 @@ Basado en el plugin de Cura "Pause at height". Modificado para cambiar el filame
  6. Retiramos el sobrante y volvemos a pulsar el encoder rotativo.
  7. La impresión sigue sin problema ¡con otro color!
  
-###Testeado
+### Testeado
 Probado en Cura 15.02.1
 
-###Fotos
+### Fotos
 (Añadir alguna foto del resultado)
 
-#Autor
+# Autor
  - Eneko Montero
